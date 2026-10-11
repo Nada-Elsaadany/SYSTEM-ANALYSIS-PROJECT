@@ -36,9 +36,3 @@ This project presents a comprehensive **System Analysis and Design (SAD)** study
 
 ## 👨‍🏫 Supervised By
 - **Dr. Eman A. Raoof** (`@emanabdoo1985`)
-
----
-
-## 📌 How to View Project Files
-1. Check the `Docs/` directory for full written reports.
-2. Check the `Diagrams/` folder for high-resolution diagram exports.
