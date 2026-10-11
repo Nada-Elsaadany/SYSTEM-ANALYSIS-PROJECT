@@ -24,8 +24,8 @@ This project presents a comprehensive **System Analysis and Design (SAD)** study
 
 ## 👥 Team Members
 
-| ID | Member Name | Role | GitHub Profile |
-| :---: | :--- | :--- | :--- |
+| ID | Member Name | GitHub Profile |
+| :---: | :--- |  :--- |
 | `[1202540435]` | **`[Nada Mahmoud Elsaadany]`** | `@Nada-Elsaadany` |
 | `[1202540465]` | **`[Walaa Fetouh Eldahshan]`** | `@walaaeldahshan` |
 | `[1202540207]` | **`[Doha Ramadan Daha]`** |  `@daha7826-sys` |
