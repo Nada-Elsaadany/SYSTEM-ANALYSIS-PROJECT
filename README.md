@@ -1,20 +1,6 @@
 ## 📌 Group Details 
--**Project name:**Vehicle Service Booking System (Garage + Customers)
--**GROUP:**second group(Thursday section)
-
-## 📌 Project Overview
-This project presents a comprehensive **System Analysis and Design (SAD)** study for the **Vehicle Service Booking System (VSBS)**. The primary goal is to analyze current operational drawbacks in manual vehicle service scheduling, define user and system requirements, and construct complete structural and behavioral models to streamline appointments, track vehicle service progress, and manage maintenance records.
-
----
-
-## 📑 Project Artifacts & Files
-
-| Artifact / Document | Format | Description |
-| :--- | :---: | :--- |
-| **System Request** | `.docx` / `.pdf` | Business need, problem statement, and expected value. |
-| **Feasibility Analysis** | `.xlsx` | Technical, economic, and operational feasibility study. |
-| **SRS Document** | `.pdf` | Complete Software Requirements Specification. |
-| **Diagrams Folder** | ` /Diagrams ` | Contains all system UML and ERD diagrams. |
+* **Project Name:** Vehicle Service Booking System (Garage + Customers)
+* **Group:** Second group (Thursday section)
 
 ---
 
@@ -31,4 +17,20 @@ This project presents a comprehensive **System Analysis and Design (SAD)** study
 ---
 
 ## 👨‍🏫 Supervised By
-- **Dr. Eman A. Raoof** (`@emanabdoo1985`)
+- **Dr. Eman A. Raoof** (`@emanabdoo1985-stack`)
+
+---
+
+## 📌 Project Overview
+This project presents a comprehensive **System Analysis and Design (SAD)** study for the **Vehicle Service Booking System (VSBS)**. The primary goal is to analyze current operational drawbacks in manual vehicle service scheduling, define user and system requirements, and construct complete structural and behavioral models to streamline appointments, track vehicle service progress, and manage maintenance records.
+
+---
+
+## 📑 Project Artifacts & Files
+
+| Artifact / Document | Format | Description |
+| :--- | :---: | :--- |
+| **System Request** | `.docx` / `.pdf` | Business need, problem statement, and expected value. |
+| **Feasibility Analysis** | `.xlsx` | Technical, economic, and operational feasibility study. |
+| **SRS Document** | `.pdf` | Complete Software Requirements Specification. |
+| **Diagrams Folder** | ` /Diagrams ` | Contains all system UML and ERD diagrams. |
