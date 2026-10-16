@@ -1,6 +1,6 @@
 ## 📌 Group Details 
--Project name:Vehicle Service Booking System (Garage + Customers)
--GROUP:second group(Thursday section)
+-**Project name:**Vehicle Service Booking System (Garage + Customers)
+-**GROUP:**second group(Thursday section)
 
 ## 📌 Project Overview
 This project presents a comprehensive **System Analysis and Design (SAD)** study for the **Vehicle Service Booking System (VSBS)**. The primary goal is to analyze current operational drawbacks in manual vehicle service scheduling, define user and system requirements, and construct complete structural and behavioral models to streamline appointments, track vehicle service progress, and manage maintenance records.
